@@ -12,4 +12,4 @@ The TTL value is then used to determine the operating system of the target host 
 The script takes a single command-line argument, the IP address of the target host, and prints the TTL value and the detected operating system to the console.
 
 ### Example
- python osdetector.py 192.168.1.1
+ '''python osdetector.py 192.168.1.1'''
