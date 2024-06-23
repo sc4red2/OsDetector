@@ -11,9 +11,11 @@ The TTL value is then used to determine the operating system of the target host 
 
 The script takes a single command-line argument, the IP address of the target host, and prints the TTL value and the detected operating system to the console.
 
+
 ### Installation
 
-Just download the zip, extract and use the script as detailed in the example below ⬇️
+Just download the zip, extract and use the script as detailed in the example below. ⬇️
+
 
 #### Example
  ```cmd
